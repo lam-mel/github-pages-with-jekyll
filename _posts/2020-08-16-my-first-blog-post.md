@@ -1,4 +1,4 @@
 ---
-title: "Welcome to my blog"
-date: 2019-01-20
+title: "Elo witam"
+date: 2020-08-16
 ---
